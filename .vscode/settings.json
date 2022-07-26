@@ -1,0 +1,15 @@
+{
+  "idf.flashType": "UART",
+  "idf.port": "/dev/cu.usbserial-0001",
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "*.tsx": "typescriptreact",
+    ".env.*": "dotenv",
+    "*.js": "javascriptreact",
+    "cmd.h": "c"
+  },
+  "idf.adapterTargetName": "esp32",
+  "idf.portWin": "COM3"
+}

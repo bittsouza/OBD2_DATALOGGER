@@ -33,10 +33,13 @@ E-mail: gabrielbittsouza@gmail.com
  
 All PID's, Baud rate and ID request tested in VW Polo 2018.
  
+- A example log can be seen at:
+    -https://datazap.me/u/bittsouza/rolling-0-88-0807?log=0&data=0-1-2
+
 For more information of the obd2 message and PID's access:
 
-https://www.csselectronics.com/screen/page/obd-ii-pid-examples/language/en
-https://en.wikipedia.org/wiki/OBD-II_PIDs
+- https://www.csselectronics.com/screen/page/obd-ii-pid-examples/language/en
+- https://en.wikipedia.org/wiki/OBD-II_PIDs
 
 
 ### Configure the project
