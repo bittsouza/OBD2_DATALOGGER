@@ -20,7 +20,7 @@ E-mail: gabrielbittsouza@gmail.com
  4) TPS - Throttle position in %
  5) FUL - Fuel in the tank in %
  6) ODO - Odometer in Km
- 7) LBD - Actual trnsmission LBDr
+ 7) LBD - Lambda sensor λ
  8) RTM - Run time engine since start
  
  Definition of DATA[]
