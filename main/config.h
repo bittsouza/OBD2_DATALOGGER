@@ -1,5 +1,4 @@
 /* --------------------- Definitions and static variables ------------------ */
-// https://threepixels.com.br/octsat/android_app/upload/hello.csv
 //System Configuration
 #define EXAMPLE_TAG                     "CAN Listen Only"
 #define NO_OF_ITERS                     500          //Number of interations
